@@ -1,0 +1,13 @@
+n = 2240
+t = 5000
+m = 100
+beta = 224
+lambda = 0.1
+lambda rate = 0.005
+model rate = 0.005
+proportion of 0 = 0.2
+space = 100
+d = 2
+train = 1
+query = sum
+dataset = Customers_count.csv
